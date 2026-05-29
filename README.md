@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  Identity and Access Management engineer with 4 years of hands-on experience building and automating identity lifecycle pipelines across enterprise environments. I work in SailPoint ISC, Microsoft Entra ID, Active Directory, CyberArk, and Delinea Secret Server — and I spend a lot of time in PowerShell and the MS Graph API turning manual access workflows into automated, auditable systems. Everything in this portfolio was built and tested in a production-grade homelab running Windows Server 2022 and a live Entra ID tenant.
+  Hey! I am Justin Gallimore, an experienced IAM professional currently working in the enterprise identity space. I specialize in Identity and Access Management, Privileged Access Management, and Zero Trust architecture. I have experience working in the Insurance, Consulting, Healthcare, and Staffing industries.
 </p>
 
 <br>
