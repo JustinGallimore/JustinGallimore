@@ -52,6 +52,13 @@ End-to-end Joiner-Mover-Leaver automation pipeline built in SailPoint IdentityNo
 
 ---
 
+### [splunk-iam-app-onboarding-lab](https://github.com/JustinGallimore/splunk-iam-app-onboarding-lab)
+IAM application onboarding lab simulating a full enterprise engagement with Splunk log ingestion, custom Technology Add-On development, SPL query writing, and IAM security dashboard.
+
+**Key areas covered:** Splunk Enterprise configuration, custom TA development, SPL query writing, IAM event correlation, and security dashboard design.
+
+---
+
 ### [zero-trust-conditional-access](https://github.com/JustinGallimore/zero-trust-conditional-access)
 Conditional Access policy design and enforcement lab in Microsoft Entra ID. Includes sanitized policy exports, break glass account monitoring via KQL, and PowerShell scripts using the Graph API for real-time policy auditing.
 
@@ -88,12 +95,6 @@ Two-phase identity audit and reporting project.
 Enterprise-grade governance program built in SailPoint ISC. Covers RBAC design, Separation of Duties policy configuration, access certification campaigns, and SOX audit evidence reporting — the full governance stack a compliance team would expect to see in a regulated environment.
 
 **Key areas covered:** role design and RBAC modeling, SoD policy configuration, certification campaign setup, reviewer workflows, and audit-ready evidence reporting.
-
----
-
-## Currently Building
-
-> **Non-Human Identity (NHI) Lab** — Service account governance, secret rotation workflows, and machine identity lifecycle management. Targeting SailPoint ISC integration with Entra workload identities. In progress.
 
 ---
 
