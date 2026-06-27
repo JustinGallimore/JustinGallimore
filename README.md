@@ -119,8 +119,4 @@ Enterprise-grade governance program built in SailPoint ISC. Covers RBAC design, 
   <img src="https://img.shields.io/badge/-Delinea-333?style=flat-square" />
 </p>
 
-<br>
 
-<p align="center">
-  <sub>All lab environments built on Windows Server 2022 in VMware Workstation with a live Microsoft Entra ID tenant. Every project reflects real configuration, real troubleshooting, and real outcomes.</sub>
-</p>
