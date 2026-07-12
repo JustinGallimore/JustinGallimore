@@ -18,10 +18,15 @@
   <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/CyberArk_PAM-EF3B2D?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Delinea_Secret_Server-6B2D8B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/MS_Graph_API-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/OIDC_Federation-00B388?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Active_Directory-003865?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
@@ -124,6 +129,13 @@ Enterprise-grade governance program built in SailPoint ISC. Covers RBAC design, 
   <img src="https://img.shields.io/badge/-PAM-333?style=flat-square" />
   <img src="https://img.shields.io/badge/-PowerShell-333?style=flat-square" />
   <img src="https://img.shields.io/badge/-Delinea-333?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Splunk-333?style=flat-square" />
+  <img src="https://img.shields.io/badge/-NHI_Governance-333?style=flat-square" />
+  <img src="https://img.shields.io/badge/-OIDC_Federation-333?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Terraform-333?style=flat-square" />
+  <img src="https://img.shields.io/badge/-AWS_IAM-333?style=flat-square" />
+  <img src="https://img.shields.io/badge/-DevSecOps-333?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Python-333?style=flat-square" />
 </p>
 
 
