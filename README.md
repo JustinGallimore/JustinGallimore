@@ -1,6 +1,4 @@
 <h1 align="center">Justin Gallimore</h1>
-<h3 align="center">IAM Engineer &nbsp;·&nbsp; SailPoint &nbsp;·&nbsp; Microsoft Entra ID &nbsp;·&nbsp; CyberArk &nbsp;·&nbsp; Delinea</h3>
-
 <br>
 
 <p align="center">
