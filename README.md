@@ -45,6 +45,13 @@
 
 ## Portfolio Projects
 
+### [multi-cloud-iam-nhi-governance](https://github.com/JustinGallimore/multi-cloud-iam-nhi-governance)
+Multi-cloud IAM and NHI governance lab covering AWS and Azure service account auditing, ownership mapping, automated attestation, and OIDC federation for GitHub Actions.
+
+**Key areas covered:** AWS IAM auditing, Azure service principal governance, non-human identity lifecycle management, ownership mapping, automated attestation workflows, and OIDC federation.
+
+---
+
 ### [sailpoint-jml-pipeline](https://github.com/JustinGallimore/sailpoint-jml-pipeline)
 End-to-end Joiner-Mover-Leaver automation pipeline built in SailPoint IdentityNow (ISC). Uses a CSV-based HR source delivered over SFTP, with all three lifecycle workflows live-tested and validated. Includes a 73-step walkthrough with embedded screenshots covering the full pipeline from source configuration through provisioning and access removal.
 
